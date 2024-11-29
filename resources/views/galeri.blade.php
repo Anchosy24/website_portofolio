@@ -4,7 +4,7 @@
 
 @section('content')
 <section class="galeri">
-    <h1>Galeri Karya</h1>
+    <h1>Galeri Foto</h1>
     <div class="gallery-grid">
         @foreach ($images as $image)
         <div class="gallery-item">
